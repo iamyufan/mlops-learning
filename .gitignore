@@ -1,0 +1,6 @@
+# .gitignore
+/Project2/content/*
+/Project2/data/*
+
+/Project2/CUB_200_2011.tar
+/Project2/kagglecatsanddogs_3367a.zip
